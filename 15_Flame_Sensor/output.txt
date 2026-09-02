@@ -1,0 +1,7 @@
+serial Monitor Output
+example:
+No Flame Detected
+No Flame Detected
+Flame Detected!
+Flame Detected!
+No Flame Detected
