@@ -1,4 +1,4 @@
-# 🌈 RGB LED Color Control
+#  RGB LED Color Control
 
 ## Overview
 
