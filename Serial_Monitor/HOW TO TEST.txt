@@ -1,0 +1,12 @@
+Upload the code to your Arduino Uno.
+Open Serial Monitor in Arduino IDE.
+Set the baud rate to:
+9600
+
+You should see:
+
+Arduino Serial Monitor Started
+Hello from Arduino!
+Hello from Arduino!
+Hello from Arduino!
+...
