@@ -1,0 +1,21 @@
+Use a potentiometer:
+
+Potentiometer	Arduino
+Left pin	GND
+Middle pin	A0
+Right pin	5V
+
+Then:
+
+Upload the code.
+Open Serial Monitor.
+Set baud rate to 9600.
+Turn the potentiometer.
+You'll see values changing from approximately 0 to 1023.
+
+  example:
+Analog Value: 0
+Analog Value: 245
+Analog Value: 512
+Analog Value: 789
+Analog Value: 1023
